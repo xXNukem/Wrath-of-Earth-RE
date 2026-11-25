@@ -87,6 +87,12 @@ The project will follow the same preservation-oriented principles as *Extremis R
 
 For a playable reconstruction already in public beta, visit [Extremis RE](https://github.com/xXNukem/Extremis-RE/releases).
 
+## License
+
+Original software and associated documentation developed for Wrath of Earth RE are released under the [MIT License](LICENSE).
+
+This license does not cover the original *Wrath of Earth* game, its copyrighted assets or the promotional banner. All rights to the original game remain with their respective owners.
+
 ## Credits and rights
 
 **Reconstruction, reverse engineering and maintenance:** [xXNukem](https://github.com/xXNukem).
