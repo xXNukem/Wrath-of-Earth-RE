@@ -89,7 +89,7 @@ For a playable reconstruction already in public beta, visit [Extremis RE](https:
 
 ## License
 
-Original software and associated documentation developed for Wrath of Earth RE are released under the [MIT License](LICENSE).
+Original software and associated documentation developed for Wrath of Earth RE are released under the [Apache License, Version 2.0](LICENSE).
 
 This license does not cover the original *Wrath of Earth* game, its copyrighted assets or the promotional banner. All rights to the original game remain with their respective owners.
 
